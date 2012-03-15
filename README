@@ -1,0 +1,3 @@
+The bare minimum to reproduce a NullPointerException on dispatch-twitter:
+
+Run with the latest stable sbt
